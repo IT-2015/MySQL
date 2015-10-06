@@ -53,6 +53,12 @@ Cette extension est obsolète depuis PHP 5.5.0 et n'est pas recommandée pour é
 L'extension mysqli vous permet d'accéder aux fonctionnalités fournies par MySQL 4.1 et supérieur.
 L'extension propose une interface orientée objet et aussi une interface procédurale.
 
+## PDO (PHP Data Object)
+Lire le cours sur [POO](https://github.com/IT-2015/POO/blob/master/README.md)
+
+L'extension PHP Data Objects (PDO) définit une excellente interface pour accéder à une base de données depuis PHP.
+
+
 ### Fonction
 
   
