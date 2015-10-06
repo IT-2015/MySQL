@@ -58,7 +58,7 @@ L'extension propose une interface orientée objet et aussi une interface procéd
   
 
 Référence :
-	- Site Officiel : http://www.mysql.com/
-	- Documentation Officiel : http://dev.mysql.com/doc/
+  - Site Officiel : http://www.mysql.com/
+  - Documentation Officiel : http://dev.mysql.com/doc/
   - Statistique d'utilisation : http://db-engines.com/en/ranking
   - Cours et tuto : http://sql.sh
